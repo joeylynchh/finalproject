@@ -1,0 +1,41 @@
+# Proposal
+tug79835@temple.edu, tuk48200@gmail.com, and tuj91536@temple.edu. Joey, Ryan, and Sam.
+
+## What will (likely) be the title of your project?
+
+The Maze
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+Our program will allow the user to input responses that will direct them through a maze. There will only be one correct sequence of answers that will allow the user to reach the end of the maze.
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+As noted, there will only be one sequence of answers that will allow the user to reach the end of the maze. We will be using Unity as the software to power the program. The program will ask the user for inputs within the maze. The correct sequence will allow the user to navigate the maze to the final destination. A wrong choice will send the player back so they can try again. 
+
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+TODO, if applicable
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+A good outcome will be a maze with you 6 inputs to reach the end of the maze. We are shooting for 10-20 inputs to reach the end of the maze. For the good outcome, there will be a victory message.
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+A better outcome will be the ability to accomplish our initial goal of 10-20 inputs. There could be a timer counting down, an enemy that appears if you go the wrong way and possibly some background music.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+
+The best outcome will be accomplishing our initial goal and adding a zombie to the program to chase the user. Including a zombie will be the best outcome for the project. Or, for the best outcome the path of the maze could be randomized so it’s different every time.
+
+
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
+
+We will need to learn how to code with Unity to accomplish the bare minimum with the project. We will need to learn when it is effective for everyone to meet so we can check in on our progress. We still need to decide how to delegate work within the project.
